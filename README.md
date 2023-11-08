@@ -7,6 +7,11 @@
 - 🌱 I’m currently learning **TypeScript** 
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website!](https://ryan-dev.com/)
+---
+<p align="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryan2625&theme=dark" alt="GitHub Streak" /></a>
+</p>
+<hr>
 
 ### 🛠 Tech Stack
 #### Front-end 💻 🌐
