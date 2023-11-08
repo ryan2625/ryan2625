@@ -34,8 +34,7 @@
 ### 🚦 Stats
 
 <div>
-  <span><img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api?username=ryan2625&theme=highcontrast&show_icons=true" /></span>
-  <span><img align="center" width="400px" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan2625&layout=donut-vertical" /></span>
+  <span><img align="center" width="400px" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan2625&layout=donut-vertical&hide=stars" /></span>
 </div>
 
 -----
