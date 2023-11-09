@@ -39,7 +39,7 @@
 ### 🚦 Stats
 
 <div>
-  <span><img align="center" width="400px" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan2625&layout=donut-vertical&hide=stars" /></span>
+  <span align="center" ><img width="400px" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan2625&layout=donut-vertical&hide=stars" /></span>
 </div>
 
 -----
