@@ -9,7 +9,7 @@
 - ⚡ Check out my [personal website!](https://ryan-dev.com/)
 ---
 <p align="center">
-      <a href="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB" alt="GitHub Streak" /></a>
+      <img src="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB" alt="GitHub Streak" /></img>
 </p>
 <hr>
 
