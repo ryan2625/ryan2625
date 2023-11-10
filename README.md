@@ -36,12 +36,4 @@
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=3aa7f2)
 
-### 🚦 Stats
-
-<div>
-  <span align="center" ><img width="400px" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan2625&layout=donut-vertical&hide=stars" /></span>
-</div>
-
------
-
-Last Edited on: 11/9/2023
+Last Edited on: 11/10/2023
