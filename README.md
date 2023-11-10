@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on [SalesSphere](https://github.com/ryan2625/Sales-Sphere)
+- 🔭 I’m currently working on [Simply Ecom](https://github.com/ryan2625/simply-ecom)
 - 🌱 I’m currently learning **TypeScript** 
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website!](https://ryan-dev.com/)
