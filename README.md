@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on https://github.com/ryan2625/crypto-net
-- 🌱 I’m currently learning **ThreeJS** and **SCSS**
+- 🌱 I’m currently learning **R3F** and **SCSS**
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website!](https://ryan-dev.com/)
 ---
@@ -36,4 +36,4 @@
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=3aa7f2)
 
-Last Edited on: 11/20/2023
+Last Edited on: 11/21/2023
