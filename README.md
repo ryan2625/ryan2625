@@ -22,6 +22,7 @@
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 #### Back-end 📁 💾
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
