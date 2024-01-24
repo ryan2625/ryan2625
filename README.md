@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on https://github.com/ryan2625/crypto-net
-- 🌱 I’m currently learning **Typescript** and **SCSS**
+- 🌱 I’m currently learning **Typescript**, **SCSS**, and **SQL**
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website!](https://ryan-dev.com/)
 ---
