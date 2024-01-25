@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h2 align="center">I am a full-stack developer from Chicago</h2>
 
----
 
 - 🔭 I’m currently working on https://github.com/ryan2625/crypto-net
 - 🌱 I’m currently learning **Typescript**, **SCSS**, and **SQL**
@@ -9,9 +8,9 @@
 - ⚡ Check out my [personal website!](https://ryan-dev.com/)
 ---
 <p align="center">
-      <img src="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB&dates=FFFFFF" alt="GitHub Streak" /></img>
+      <img src="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB&dates=FFFFFF" alt="GitHub Streak" />
 </p>
-<hr>
+<hr/>
 
 ### 🛠 Tech Stack
 #### Front-end 💻 🌐
