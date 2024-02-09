@@ -2,7 +2,7 @@
 <h2 align="center">I am a full-stack developer from Chicago</h2>
 
 
-- 🔭 I’m currently working on https://github.com/ryan2625/crypto-net
+- 🔭 I’m currently working on [https://github.com/ryan2625/crypto-net](https://github.com/ryan2625/crypto-net)
 - 🌱 I’m currently learning **Typescript**, **React Native**, and **HTML email development**
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website!](https://ryan-dev.com/)
