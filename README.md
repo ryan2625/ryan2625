@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on [https://github.com/ryan2625/crypto-net](https://github.com/ryan2625/crypto-net)
-- 🌱 I’m currently learning **Typescript**, **React Native**, and **HTML email development**
+- 🌱 I’m currently learning **Typescript** and **React Native**
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website!](https://ryan-dev.com/)
 ---
