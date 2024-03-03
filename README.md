@@ -2,7 +2,7 @@
 <h2 align="center">I am a full-stack developer from Chicago</h2>
 
 
-- 🔭 I’m currently working on [https://github.com/ryan2625/crypto-net](https://github.com/ryan2625/crypto-net)
+- 🔭 I’m currently working with [Unbound](https://www.bridgeline.com/our-products/unbound), React, and .NET
 - 🌱 I’m currently learning **Typescript** and **React Native**
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website!](https://ryan-dev.com/)
