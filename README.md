@@ -2,7 +2,7 @@
 <h2 align="center">I am a web developer from Chicago</h2>
 
 
-- 🔭 I’m currently working with [Unbound](https://www.bridgeline.com/our-products/unbound), React, and .NET
+- 🔭 I’m currently working with [Unbound](https://www.bridgeline.com/our-products/unbound), C#, and ASP.NET
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website](https://ryan-dev.com/)
 ---
