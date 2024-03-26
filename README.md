@@ -36,4 +36,6 @@
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=3aa7f2)
 
-Last Edited on: 02/04/2024
+<hr/>
+I am currently a web developer working at IREM, where most of my work and code commits are on our bitbucket repositories. <br/>
+Last edited on: 03/26/2024
