@@ -39,6 +39,7 @@
 ![Npm](http://img.shields.io/badge/-Npm-white?style=for-the-badge&logo=npm&logoColor=white)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=3aa7f2)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <hr/>
 Most of my activity will be in private repos on bitbucket 🙇‍♂️ <br/>
