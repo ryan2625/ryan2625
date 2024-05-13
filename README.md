@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h2 align="center">I am a web developer from Chicago</h2>
+<h2 align="center">I am a software engineer from Chicago</h2>
 
 
 - 🔭 I’m currently working with [Unbound](https://www.bridgeline.com/our-products/unbound), C#, and ASP.NET
+- 🔨 I work as a web developer for IREM (Institute of Real Estate Management)
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website](https://ryan-dev.com/)
 ---
