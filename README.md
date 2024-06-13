@@ -6,6 +6,7 @@
 - 🔨 I work as a web developer for IREM (Institute of Real Estate Management)
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website](https://ryan-dev.com/)
+- 🗿 I also have a [leetcode profile](https://leetcode.com/u/westbrook1000ui/)
 ---
 <p align="center">
       <img src="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB&dates=FFFFFF" alt="GitHub Streak" />
