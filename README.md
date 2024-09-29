@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working with [Unbound](https://www.bridgeline.com/our-products/unbound), C#, and ASP.NET
-- 🔨 I work as a web developer for IREM (Institute of Real Estate Management)
+- 🔨 I work as a Software Engineer for BlueTread
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website](https://ryanfreas.com/?src_token=Github)
 - 🗿 I also have a [leetcode profile](https://leetcode.com/u/westbrook1000ui/)
