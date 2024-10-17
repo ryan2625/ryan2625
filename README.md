@@ -50,7 +50,7 @@
 ![Batchfile](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 <hr/>
-Most of my activity will be in private repos on bitbucket 🙇‍♂️ <br/>
+
 Last edited on: 07/28/2024
 
 <!--8170e6684a1c5bfb70d5cfa-->
