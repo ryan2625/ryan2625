@@ -2,8 +2,8 @@
 <h2 align="center">I am a software engineer from Chicago</h2>
 
 
-- 🔭 I’m currently working with [Unbound](https://www.bridgeline.com/our-products/unbound), C#, and ASP.NET
-- 🔨 I work as a Software Engineer for BlueTread
+- 🔭 I’m currently working on [SASS-STUDIOS](https://github.com/ryan2625/SASS-templater) - come check out the repository!
+- 🔨 I work as a Software Engineer for BlueTread, where my focus is creating mobile applications with React Native
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website](https://ryanfreas.com/?src_token=Github)
 - 🗿 I also have a [leetcode profile](https://leetcode.com/u/westbrook1000ui/)
@@ -51,6 +51,6 @@
 
 <hr/>
 
-Last edited on: 07/28/2024
+Last edited on: 02/16/2025
 
 <!--8170e6684a1c5bfb70d5cfa-->
