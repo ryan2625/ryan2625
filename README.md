@@ -2,7 +2,7 @@
 <h2 align="center">I am a software engineer from Chicago</h2>
 
 
-- 🔭 I’m currently working on [SASS-STUDIOS](https://github.com/ryan2625/SASS-templater) - come check out the repository!
+- 🔭 I’m currently working on [sass-studios](https://github.com/ryan2625/SASS-templater) - come check out the repository!
 - 🔨 I work as a Software Engineer for BlueTread, where my focus is creating mobile applications with React Native
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website](https://ryanfreas.com/?src_token=Github)
