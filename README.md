@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on [sass-studios](https://github.com/ryan2625/SASS-templater) - come check out the repository!
-- 🔨 I work as a Software Engineer for BlueTread, where my focus is creating mobile applications with React Native
+- 🔨 I work as a Software Engineer for BlueTread, creating mobile applications with React Native
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website](https://ryanfreas.com/?src_token=Github)
 - 🗿 I also have a [leetcode profile](https://leetcode.com/u/westbrook1000ui/)
