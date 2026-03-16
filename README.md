@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋 I'm Ryan</h1>
 <h2 align="center">I am a Software Engineer from Chicago</h2>
 
-
-- 🔭 I’m currently working on [sass-studios](https://github.com/ryan2625/SASS-templater) - come check out the repository!
 - 🔨 I work as a Software Engineer for BlueTread, creating mobile applications with React Native
 - 📫 Reach me at **ryancfreas@gmail.com**
 - ⚡ Check out my [personal website](https://ryanfreas.com/?src_token=Github)
-- 🗿 I also have a [leetcode profile](https://leetcode.com/u/westbrook1000ui/)
 ---
 <p align="center">
       <img src="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB&dates=FFFFFF" alt="GitHub Streak" />
@@ -48,9 +45,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Batchfile](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 
 <hr/>
-
-Last edited on: 02/16/2025
 
 <!--8170e6684a1c5bfb70d5cfa-->
