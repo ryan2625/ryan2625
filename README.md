@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Ryan</h1>
 <h2 align="center">I am a Software Engineer from Chicago</h2>
 
-- 🔨 I work as a Software Engineer for BlueTread, creating mobile applications with React Native
-- 📫 Reach me at **ryancfreas@gmail.com**
-- ⚡ Check out my [personal website](https://ryanfreas.com/?src_token=Github)
+- I work as a Software Engineer for BlueTread, creating mobile applications with React Native
+- Reach me at **ryancfreas@gmail.com**
+- Check out my [personal website](https://ryanfreas.com/?src_token=Github)
 ---
 <p align="center">
       <img src="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB&dates=FFFFFF" alt="GitHub Streak" />
