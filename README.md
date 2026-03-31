@@ -3,7 +3,6 @@
 
 - I work as a Software Engineer for BlueTread, creating mobile applications with React Native
 - Reach me at **ryancfreas@gmail.com**
-- Check out my [personal website](https://ryanfreas.com/?src_token=Github)
 ---
 <p align="center">
       <img src="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB&dates=FFFFFF" alt="GitHub Streak" />
@@ -49,4 +48,5 @@
 
 <hr/>
 
-<!--8170e6684a1c5bfb70d5cfa-->
+<!--8170e6684a1c5bfb70d5cfa
+- Check out my [personal website](https://ryanfreas.com/?src_token=Github) -->
