@@ -36,7 +36,6 @@
 ![Npm](http://img.shields.io/badge/-Npm-white?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=3aa7f2)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
-<hr/>
 
 <!--8170e6684a1c5bfb70d5cfa
 ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
