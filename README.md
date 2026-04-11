@@ -2,7 +2,8 @@
 <h2 align="center">I am a Software Engineer from Chicago</h2>
 
 - I work as a Software Engineer for BlueTread, creating mobile applications with React Native
-- Talk to me about software, electrical engineering, or anything else on [linked in](https://www.linkedin.com/in/ryan-freas/)!
+- Check out my favorite personal project about [embedded engineering](https://github.com/ryan2625/ESP32-CC1101-Transmission?tab=readme-ov-file#esp32-cc1101-transmission)
+- Talk to me about software, electrical engineering, or anything else on [LinkedIn](https://www.linkedin.com/in/ryan-freas/)!
 ---
 <p align="center">
       <img src="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB&dates=FFFFFF" alt="GitHub Streak" />
