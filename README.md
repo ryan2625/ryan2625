@@ -3,7 +3,6 @@
 
 - I work as a Software Engineer for BlueTread, creating mobile applications with React Native
 - Check out my favorite personal project about [embedded engineering](https://github.com/ryan2625/ESP32-CC1101-Transmission?tab=readme-ov-file#esp32-cc1101-transmission)
-- Talk to me about software, electrical engineering, or anything else on [LinkedIn](https://www.linkedin.com/in/ryan-freas/)!
 ---
 <p align="center">
       <img src="https://github-readme-streak-stats-three-zeta.vercel.app?user=ryan2625&theme=black-ice&background=45%2C000000%2C0008AB&dates=FFFFFF" alt="GitHub Streak" />
@@ -48,5 +47,4 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=for-the-badge&logo=javascript&logoColor=black)
-
 - Check out my [personal website](https://ryanfreas.com/?src_token=Github) -->
